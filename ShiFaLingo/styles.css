@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffeb3b;
+    padding: 20px;
+    font-size: 2em;
+}
+
+main {
+    padding: 20px;
+}
+
+.translator {
+    margin: 20px auto;
+    max-width: 500px;
+}
+
+#inputText {
+    width: 80%;
+    padding: 10px;
+    font-size: 1em;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #444;
+}
